@@ -25,13 +25,13 @@ repository               : "kwaku-o-twum/kwaku-o-twum.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Kwaku Owusu Twum"
+  pronouns         : # example: "He/him"  
+  bio              : "Sustainability research · geospatial & spatial data science · planning · consulting."
+  location         : "Waterloo, Ontario, Canada"
+  employer         : "University of Waterloo (SEED)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kotwum23@gmail.com" 
 
   # Academic websites
   academia         : # URL
