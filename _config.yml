@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Kwaku Owusu Twum / Kwaku Owusu Twum"
+title                    : "Research Scientist"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kwaku Owusu Twum"
 description              : &description "Sustainability researcher, geospatial scientist, and planner — bridging
   environmental science, spatial data, and market practice."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://kwaku-o-twum.github.io # The base hostname & protocol for your site e.g. "https://kwaku-o-twum.github.io",
@@ -26,7 +26,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kwaku Owusu Twum"
-  pronouns         : # example: "He/him"  
+  pronouns         : "He/him"  
   bio              : "Sustainability research · geospatial & spatial data science · planning · consulting."
   location         : "Waterloo, Ontario, Canada"
   employer         : "University of Waterloo (SEED)"
@@ -36,14 +36,14 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=MaWO0uIAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3439-471X"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Kwaku-Owusu-Twum?ev=hdr_xprf" URL
   scopus           : # URL
   zotero           : # URL
 
