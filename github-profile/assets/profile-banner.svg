@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Geospatial evidence for resilient landscapes</title>
+  <desc id="desc">Kwaku Owusu Twum. A forest-green landscape illustration connecting spatial observations with environmental decisions.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#bed2b3" stroke-width="0.6" opacity="0.12"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#173d35"/><stop offset="1" stop-color="#254e40"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="6" fill="url(#fade)"/>
+  <rect x="738" width="462" height="320" fill="url(#grid)"/>
+  <g fill="none" stroke="#a8c397" stroke-width="1" opacity="0.26">
+    <path d="M710 350C760 118 900 252 1235 18"/>
+    <path d="M735 360C785 128 925 262 1260 28"/>
+    <path d="M760 370C810 138 950 272 1285 38"/>
+    <path d="M785 380C835 148 975 282 1310 48"/>
+    <path d="M810 390C860 158 1000 292 1335 58"/>
+    <path d="M835 400C885 168 1025 302 1360 68"/>
+    <path d="M860 410C910 178 1050 312 1385 78"/>
+    <path d="M885 420C935 188 1075 322 1410 88"/>
+  </g>
+  <path d="M780 342C958 250 838 138 1013 169S1118 24 1230 23" fill="none" stroke="#b8d9cd" stroke-width="28" opacity="0.09"/>
+  <path d="M780 342C958 250 838 138 1013 169S1118 24 1230 23" fill="none" stroke="#b8d9cd" stroke-width="1.2" opacity="0.65"/>
+  <path d="M833 227L921 102L1096 163L1019 269Z" fill="#d4e799" fill-opacity="0.035" stroke="#d4e799" stroke-width="1.2" stroke-dasharray="4 7" opacity="0.75"/>
+  <g fill="#d4e799"><circle cx="833" cy="227" r="4"/><circle cx="921" cy="102" r="4"/><circle cx="1096" cy="163" r="4"/><circle cx="1019" cy="269" r="4"/></g>
+  <circle cx="921" cy="102" r="17" fill="none" stroke="#d4e799" stroke-width="0.9" opacity="0.35"/>
+  <text x="55" y="60" fill="#d4e799" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3">KWAKU OWUSU TWUM</text>
+  <text x="52" y="145" fill="#f7f5ee" font-family="Georgia,serif" font-size="59">Geospatial evidence</text>
+  <text x="52" y="214" fill="#d4e799" font-family="Georgia,serif" font-size="59" font-style="italic">for resilient landscapes.</text>
+  <path d="M55 250H111" stroke="#d4e799" stroke-width="2"/>
+  <text x="129" y="256" fill="#d9e3d3" font-family="Arial,Helvetica,sans-serif" font-size="17">Data. People. Environmental decisions.</text>
+</svg>
